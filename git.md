@@ -135,7 +135,7 @@ git push -u origin master
 
 
 将github文件克隆到本地
-git clone origin https://github.com/akahong/mook.git
+git clone  https://github.com/akahong/mook.git
 
 
 
